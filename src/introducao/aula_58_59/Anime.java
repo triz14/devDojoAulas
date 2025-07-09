@@ -1,4 +1,4 @@
-package introducao.aula_58;
+package introducao.aula_58_59;
 
 public class Anime {
     private String nome;
@@ -24,6 +24,7 @@ public class Anime {
         System.out.println(this.episodios);
         System.out.println(this.nome);
         System.out.println(this.genero);
+        System.out.println(this.estudio);
     }
 
     public String getNome() {
