@@ -1,4 +1,4 @@
-package introducao.aula_61;
+package introducao.aula_61_62;
 
 public class Carro {
     private String nome;
@@ -33,11 +33,11 @@ public class Carro {
         this.velocidadeMaxima = velocidadeMaxima;
     }
 
-    public double getVelocidadeLimite() {
+    public static double getVelocidadeLimite() {
         return velocidadeLimite;
     }
 
-    public void setVelocidadeLimite(double velocidadeLimite) {
-        this.velocidadeLimite = velocidadeLimite;
+    public static void setVelocidadeLimite(double velocidadeLimite) {
+        Carro.velocidadeLimite = velocidadeLimite;
     }
 }
