@@ -1,4 +1,4 @@
-package introducao.aula_61_62;
+package introducao.aula_61_62.dominio;
 
 public class Carro {
     private String nome;

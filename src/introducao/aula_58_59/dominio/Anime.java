@@ -1,4 +1,4 @@
-package introducao.aula_58_59;
+package introducao.aula_58_59.dominio;
 
 public class Anime {
     private String nome;

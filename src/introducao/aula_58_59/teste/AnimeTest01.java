@@ -1,4 +1,6 @@
-package introducao.aula_58_59;
+package introducao.aula_58_59.teste;
+
+import introducao.aula_58_59.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

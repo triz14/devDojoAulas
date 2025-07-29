@@ -1,4 +1,7 @@
-package introducao.aula_64_65_66;
+package introducao.aula_64_65_66.teste;
+
+import introducao.aula_64_65_66.dominio.Time;
+import introducao.aula_64_65_66.dominio.Jogador;
 
 public class JogadorTest02 {
     public static void main(String[] args) {

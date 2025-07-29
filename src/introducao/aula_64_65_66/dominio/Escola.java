@@ -1,8 +1,8 @@
-package introducao.aula_64_65_66;
+package introducao.aula_64_65_66.dominio;
 
 public class Escola {
     private String nome;
-    private Professor [] professores;
+    private Professor[] professores;
 
     public Escola(String nome) {
         this.nome = nome;

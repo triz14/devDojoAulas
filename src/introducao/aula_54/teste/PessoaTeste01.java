@@ -1,4 +1,6 @@
-package introducao.aula_54;
+package introducao.aula_54.teste;
+
+import introducao.aula_54.dominio.Pessoa;
 
 public class PessoaTeste01 {
     public static void main(String[] args) {

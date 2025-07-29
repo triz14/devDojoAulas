@@ -1,10 +1,9 @@
-package introducao.aula_63;
+package introducao.aula_60.dominio;
 
 public class Anime {
     private String nome;
-    private static int[] episodios = {1,2,3,4,5,6,7,8,9,10,11,12};
-
-    static {
+    private int[] episodios = {1,2,3,4,5,6,7,8,9,10,11,12};
+    {
         System.out.println("Ihuuuuuuuuuuu");
         episodios = new int[100];
         for(int i =0; i < episodios.length; i++){
@@ -17,7 +16,7 @@ public class Anime {
     }
 
     public Anime() {
-        for(int episodio : Anime.episodios){
+        for(int episodio : this.episodios){
             System.out.println(episodio + "");
         }
     }

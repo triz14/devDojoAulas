@@ -1,4 +1,6 @@
-package introducao.aula_61_62;
+package introducao.aula_61_62.teste;
+
+import introducao.aula_61_62.dominio.Carro;
 
 public class CarroTeste01 {
     public static void main(String[] args) {

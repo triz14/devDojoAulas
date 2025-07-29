@@ -1,4 +1,4 @@
-package introducao.aula_64_65_66;
+package introducao.aula_64_65_66.dominio;
 
 public class Jogador {
     private String nome;

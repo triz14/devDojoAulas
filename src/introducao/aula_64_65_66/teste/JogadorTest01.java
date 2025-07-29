@@ -1,4 +1,6 @@
-package introducao.aula_64_65_66;
+package introducao.aula_64_65_66.teste;
+
+import introducao.aula_64_65_66.dominio.Jogador;
 
 public class JogadorTest01 {
     public static void main(String[] args) {

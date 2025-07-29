@@ -1,8 +1,8 @@
-package introducao.aula_64_65_66;
+package introducao.aula_64_65_66.dominio;
 
 public class Time {
     private String nome;
-    private Jogador [] jogadores;
+    private Jogador[] jogadores;
 
     public Time(String nome) {
         this.nome = nome;
