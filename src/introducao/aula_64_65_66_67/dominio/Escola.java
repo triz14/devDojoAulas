@@ -1,4 +1,4 @@
-package introducao.aula_64_65_66.dominio;
+package introducao.aula_64_65_66_67.dominio;
 
 public class Escola {
     private String nome;
