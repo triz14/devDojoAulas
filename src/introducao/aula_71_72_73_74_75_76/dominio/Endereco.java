@@ -1,4 +1,4 @@
-package introducao.aula_71_72_73_74_75.dominio;
+package introducao.aula_71_72_73_74_75_76.dominio;
 
 public class Endereco {
     private String rua;

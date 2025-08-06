@@ -1,7 +1,7 @@
-package introducao.aula_71_72_73_74_75.teste;
-import introducao.aula_71_72_73_74_75.dominio.Endereco;
-import introducao.aula_71_72_73_74_75.dominio.Funcionario;
-import introducao.aula_71_72_73_74_75.dominio.Pessoa;
+package introducao.aula_71_72_73_74_75_76.teste;
+import introducao.aula_71_72_73_74_75_76.dominio.Endereco;
+import introducao.aula_71_72_73_74_75_76.dominio.Funcionario;
+import introducao.aula_71_72_73_74_75_76.dominio.Pessoa;
 
 public class HerancaTest01 {
     public static void main(String[] args) {
