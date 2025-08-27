@@ -1,8 +1,7 @@
-package introducao.aula_84.teste;
+package introducao.aula_84_85_86.teste;
 
-import introducao.aula_84.dominio.Desenvolvedor;
-import introducao.aula_84.dominio.Funcionario;
-import introducao.aula_84.dominio.Gerente;
+import introducao.aula_84_85_86.dominio.Desenvolvedor;
+import introducao.aula_84_85_86.dominio.Gerente;
 
 public class FuncionarioTest01 {
     public static void main(String[] args) {
