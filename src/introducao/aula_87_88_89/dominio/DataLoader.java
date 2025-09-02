@@ -1,4 +1,4 @@
-package introducao.aula_87.dominio;
+package introducao.aula_87_88_89.dominio;
 
 public interface DataLoader {
     void load();
